@@ -7,7 +7,7 @@ the next publish overwrites any changes made here.
 
 | Plugin | Version | What it does |
 | --- | --- | --- |
-| OIXIO ReportApp User (`reportapp-user`) | 0.1.2 | For ReportApp users: understand the numbers on a dashboard or Power BI report, fill in values and forms for you to save, and filter the view, without changing any settings. Configuration and setup are administrator work and not included. Don't install it next to OIXIO ReportApp Admin. |
+| OIXIO ReportApp User (`reportapp-user`) | 0.1.3 | For ReportApp users: understand the numbers on a dashboard or Power BI report, fill in values and forms for you to save, and filter the view, without changing any settings. Configuration and setup are administrator work and not included. Don't install it next to OIXIO ReportApp Admin. |
 
 ## Install
 

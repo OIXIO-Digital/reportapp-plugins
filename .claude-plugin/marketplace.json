@@ -11,7 +11,7 @@
       "name": "reportapp-user",
       "source": "./plugins/reportapp-user",
       "description": "For ReportApp users: understand the numbers on a dashboard or Power BI report, fill in values and forms for you to save, and filter the view, without changing any settings. Configuration and setup are administrator work and not included. Don't install it next to OIXIO ReportApp Admin.",
-      "version": "0.1.2"
+      "version": "0.1.3"
     }
   ]
 }
